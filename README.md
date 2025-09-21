@@ -21,7 +21,7 @@ This repository documents my journey through a YouTube Data Analysis Bootcamp or
 - Exploratory data analysis
 - Dashboard/report building
 - Automating data collection via web scraping
-- Visual analytics and business intelligence
+- Visual analytics
 
 ## Getting Started
 
